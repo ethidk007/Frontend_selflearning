@@ -1,0 +1,38 @@
+li {
+    display: inline; 
+    padding: 10px;
+    
+}
+.cen{
+    text-align: center;
+}
+.space2{
+    margin-left: 20px;
+}
+.abc{
+    text-align: center;
+        } 
+.ab{
+    padding: 10px;
+    color: gray;
+        }
+        
+.center{
+            text-align: center;
+            align-items: center;
+            padding: 25px;
+
+        
+    }
+    .orange
+    {
+        background-color: orange;
+    }
+.zyx{
+        margin: 30px;
+    }
+    .grey{
+        background-color: whitesmoke;
+    }
+
+    
