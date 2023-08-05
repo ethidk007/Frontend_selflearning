@@ -8,7 +8,7 @@
 
 |    **Name**     | SATHISH KUMAR P |
 |:---------------------:|:------------------------------:|
-|    **AREA OF INTEREST**        |  FULL STACK JAVA |
+|    **SKILLSET**        |  FULL STACK JAVA |
 
 
 ## Project Description:
