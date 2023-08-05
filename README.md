@@ -6,7 +6,7 @@
 
 
 
-|      **Name**     | SATHISH KUMAR P |
+|    **Name**     | SATHISH KUMAR P |
 |:---------------------:|:------------------------------:|
 |    **AREA OF INTEREST**        |  FULL STACK JAVA |
 
