@@ -6,9 +6,17 @@
 
 
 
-|    **Name**     | SATHISH KUMAR P |
+|    **NAME**     | SATHISH KUMAR P |
 |:---------------------:|:------------------------------:|
-|    **SKILLSET**        |  FULL STACK JAVA |
+|    **COLLAGE**        |  FRANCIS XAVIER ENGINEERING COLLAGE|
+|:---------------------:|:------------------------------:|
+|    **COURSE**        |  BE CSE |
+|:---------------------:|:------------------------------:|
+|    **YEAR OF PASSING**        |  2023 passed out |
+|:---------------------:|:------------------------------:|
+|    **SKILLSET**        |  FULL STACK JAVA (Currently learning) |
+|:---------------------:|:------------------------------:|
+|    **NATIVE PLACE**        |  Tirunelveli, Tamilnadu |
 
 
 ## Project Description:
