@@ -12,7 +12,7 @@
 |    **COURSE**        |  BE CSE |
 |    **YEAR OF PASSING**        |  2023 passed out |
 |    **NATIVE PLACE**        |  Tirunelveli, Tamilnadu |
-|    **SKILLSET**        |  FULL STACK JAVA (Currently learning) |
+|    **SKILLSET**        |  FRONT END DEVELOPMENT (Currently learning) |
 
 
 ## Project Description:
