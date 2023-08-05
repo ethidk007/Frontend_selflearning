@@ -4,13 +4,12 @@
 <img align="right" alt="Coding" width="380" src="https://assignment-3.s3.jp-tok.cloud-object-storage.appdomain.cloud/98721-how-it-works.gif">
 
 
-# IBM-Project-22316-1659848831
 
 
-|      **Project Name**     | Skill And Job Recommender |
+|      **Name**     | SATHISH KUMAR P |
 |:---------------------:|:------------------------------:|
-|         **Domain**        |  Cloud Application Development |
-|        **Team ID**        |  PNT2022TMID53896 |
+|    **AREA OF INTEREST**        |  FULL STACK JAVA |
+|        
 
 
 ## __Team Size : 4__
